@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmood Salah Yousef
-- 👀 I’m interested in music, sports and gaming
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in tech, music and sports.
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on small open source projects written in Ruby/ python
 - 📫 How to reach me: email me mahmood.sa.yousef@gmail.com
 
